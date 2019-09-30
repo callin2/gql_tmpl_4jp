@@ -1,0 +1,25 @@
+{
+  "name": "gql_template",
+  "version": "1.0.0",
+  "description": "graphql server boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callin2/gql_tmpl_4jp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/callin2/gql_tmpl_4jp/issues"
+  },
+  "homepage": "https://github.com/callin2/gql_tmpl_4jp#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "graphql-yoga": "^1.18.3"
+  },
+  "engines": {}
+}
